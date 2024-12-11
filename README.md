@@ -15,14 +15,6 @@ It's time to escape that generic way of counting 1,2,3s with Sandy's adorable de
 
 ---
 
-## Screenshots
-
-Here’s a sneak peek at Sandy Calculates in action:
-
-![Sandy Calculates Screenshot](assets/images/calculator_banner.png)
-
----
-
 ## Requirements
 
 - Flutter 2.0 or higher
